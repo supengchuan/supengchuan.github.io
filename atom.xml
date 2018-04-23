@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-23T03:49:13.608Z</updated>
+  <updated>2018-04-23T03:51:02.322Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Test</title>
     <link href="http://yoursite.com/2018/04/22/test2/"/>
     <id>http://yoursite.com/2018/04/22/test2/</id>
-    <published>2018-04-23T03:49:13.608Z</published>
-    <updated>2018-04-23T03:49:13.608Z</updated>
+    <published>2018-04-23T03:51:02.322Z</published>
+    <updated>2018-04-23T03:51:02.322Z</updated>
     
-    <content type="html"><![CDATA[<hr><h2 id="title-Test"><a href="#title-Test" class="headerlink" title="title:Test"></a>title:Test</h2><ul><li>My name is spc, this is a test!</li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li>My name is spc, this is a test!</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;hr&gt;
-&lt;h2 id=&quot;title-Test&quot;&gt;&lt;a href=&quot;#title-Test&quot; class=&quot;headerlink&quot; title=&quot;title:Test&quot;&gt;&lt;/a&gt;title:Test&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;My name is spc, this is a t
+        &lt;ul&gt;
+&lt;li&gt;My name is spc, this is a test!&lt;/li&gt;
+&lt;/ul&gt;
+
       
     
     </summary>
